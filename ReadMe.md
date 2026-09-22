@@ -4,7 +4,7 @@
   <img
     src="https://imgs.search.brave.com/Ym78uW3vFitLyCdy62HC1VVyB-KTyZ4KH8WIb88dDEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hcGth/bGVydC5jb20vbG9n/by9ibGFja2JveF82/NF9iaXRfYXBrLnBu/Zw"
     width="180"
-    alt="ZCore BlackBox Logo"
+    alt="ZCore BlackBox LoGo"
   />
 </p>
 

@@ -1,4 +1,4 @@
-# 🚀 ZCore — BlackBox Enhanced Edition
+# 🚀 Zcore — BlackBox Enhanced Edition
 
   <p align="center">
   <img
